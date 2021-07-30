@@ -1,0 +1,25 @@
+Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+Strings: Variables que contienen caracteres contenidos entre ' -texto- '.
+Ejemplo: String Nombre = 'Javier'
+
+Funciones: Estructuras que sirven para evitar la repetición de código.
+Ejemplo: Function Legalidad(Edad)
+Dicha función determina si la edad ingresada supera los 18 años o no.
+TAMBIÉN puede retornar en una variable boolean que nos dirá si nuestra declaración es verdad o falsa.
+
+Declaraciones: Estructuras que sirven para realizar ciertas cosas si se cumple una condición
+Ejemplo: If (fecha_expiración > 30){
+			// Acción si el producto esta expirado
+		} else {
+			// Acción si el producto aún sirve
+		}
+En esta declaración comprobamos si la fecha de expiración es demasiada o si es relativamente nueva
+En ambos casos, tendrá diferente resolución el código
+
+Valores Booleanos: Variables que solo tienen 2 significados (false, true)
+Ejemplo: Boolean MayorDeEdad = true
