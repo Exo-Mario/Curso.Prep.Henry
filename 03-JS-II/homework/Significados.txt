@@ -1,0 +1,18 @@
+* `for`
+* `&&`, `||`, `!`
+
+
+for: Una estructura de bucle con 3 argumentos (declaración de variable, condición necesaria y aumentador)
+Los bucles se usan para ahorrar tiempo en escribir códigos similares
+Ejemplo: For (var i=0; i<=100, i++)
+En este ejemplo, el bucle inicia en 0 y sigue hasta 100 con un paso de 1 en 1
+
+&&: Es un operador lógico AND
+Si la condición compuesta tiene una parte falsa, toda la condición será falsa.
+
+||: Es un operador lógico OR
+Si la condición compuesta tiene una parte verdadera, toda la condición será verdadera.
+Basta solamente conque una expresión sea correcta.
+
+!: Es un operador lógico NOT
+Si la condición es verdadera, este operador la convertirá en lo contrario.
