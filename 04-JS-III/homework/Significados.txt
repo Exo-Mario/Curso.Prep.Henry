@@ -1,0 +1,6 @@
+* Arrays
+
+Son contenedores de varios y distintos tipos de datos. (boolean, int, string, etc...)
+Solo estan compuesto por su nombre de variable y por la cantidad de datos que almacenan. (va entre corchetes o brackets) 
+
+También se les dice matrices o arreglos
